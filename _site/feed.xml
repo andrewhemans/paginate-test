@@ -1,5 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-07T14:34:29-07:00</updated><id>http://localhost:4000/</id><title type="html">Paginate Example - 01 Typical Blog</title><subtitle>Shows how the jekyll-paginate-v2 gem can be used on a typical blog created in Jekyll.
-</subtitle><entry><title type="html">Poetry by Marion Cohen</title><link href="http://localhost:4000/2017/10/poetry-by-marion-cohen.html" rel="alternate" type="text/html" title="Poetry by Marion Cohen" /><published>2017-10-04T13:30:00-07:00</published><updated>2017-10-04T13:30:00-07:00</updated><id>http://localhost:4000/2017/10/poetry-by-marion-cohen</id><content type="html" xml:base="http://localhost:4000/2017/10/poetry-by-marion-cohen.html">&lt;p&gt;&lt;strong&gt;Great Fear of Death&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Placeholder Magazine</title>
+    <description>A fiercely independent critical voice covering contemporary arts, culture and literature magazine featuring emerging creatives with featured articles, blogs, video, and more.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 07 Oct 2017 15:30:15 -0700</pubDate>
+    <lastBuildDate>Sat, 07 Oct 2017 15:30:15 -0700</lastBuildDate>
+    <generator>Jekyll v3.6.0</generator>
+    
+      <item>
+        <title>Poetry by Marion Cohen</title>
+        <description>&lt;p&gt;&lt;strong&gt;Great Fear of Death&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I cannot believe my body won’t mind being cremated, and then ashes, scattered or not,&lt;br /&gt;
 Cannot believe my body won’t feel it, won’t have a mind and a con-&lt;br /&gt;
@@ -77,7 +89,44 @@ The kind you can barely touch?&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;marioncohen.net&quot;&gt;marioncohen.net&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Photography courtesy of Saskia Hatvany&lt;/em&gt;&lt;/p&gt;</content><author><name>Marion Cohen</name></author><category term="Poetry" /><category term="Marion Cohen" /><category term="placeholder" /><category term="placeholder mag" /><category term="placeholder magazine" /><category term="Great Fear of Death" /><category term="Moustraps Circa 1940's" /><category term="Bangles" /><category term="Death" /><category term="Consciousness" /><category term="Bracelets" /><category term="featured" /><summary type="html">Great Fear of Death</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/Marion-Cohen-poetry-3.jpg" /></entry><entry><title type="html">OPINION: Disappearing ‘Civic Pride’ in Stockton</title><link href="http://localhost:4000/2017/10/opinion-disappearing-civic-pride-in-stockton.html" rel="alternate" type="text/html" title="OPINION: Disappearing 'Civic Pride' in Stockton" /><published>2017-10-04T08:00:00-07:00</published><updated>2017-10-04T08:00:00-07:00</updated><id>http://localhost:4000/2017/10/opinion-disappearing-civic-pride-in-stockton</id><content type="html" xml:base="http://localhost:4000/2017/10/opinion-disappearing-civic-pride-in-stockton.html">&lt;p&gt;Sorry, city leaders, but the decision to purchase the waterfront towers as the new City Hall is unacceptable. There is no “civic pride” in entering a nondescript, glassy tower lacking any architectural thought.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Photography courtesy of Saskia Hatvany&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Oct 2017 13:30:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/10/poetry-by-marion-cohen.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/poetry-by-marion-cohen.html</guid>
+        
+        <category>Poetry</category>
+        
+        <category>Marion Cohen</category>
+        
+        <category>placeholder</category>
+        
+        <category>placeholder mag</category>
+        
+        <category>placeholder magazine</category>
+        
+        <category>Great Fear of Death</category>
+        
+        <category>Moustraps Circa 1940's</category>
+        
+        <category>Bangles</category>
+        
+        <category>Death</category>
+        
+        <category>Consciousness</category>
+        
+        <category>Bracelets</category>
+        
+        <category>featured</category>
+        
+        
+        <category>Literature</category>
+        
+      </item>
+    
+      <item>
+        <title>OPINION: Disappearing 'Civic Pride' in Stockton</title>
+        <description>&lt;p&gt;Sorry, city leaders, but the decision to purchase the waterfront towers as the new City Hall is unacceptable. There is no “civic pride” in entering a nondescript, glassy tower lacking any architectural thought.&lt;/p&gt;
 
 &lt;p&gt;Yes, there are expensive repairs and improvements to be made to historic City Hall, but that is the case with any historic structure, and Stockton is on its last leg when it comes to remaining historic buildings.&lt;/p&gt;
 
@@ -91,7 +140,50 @@ The kind you can barely touch?&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;One must think beyond the physical investment and to the larger investment into city pride. There are other, more visible issues in our beautiful city, but just once, it would be nice to see the leaders double down on preservation.&lt;/p&gt;
 
-&lt;p&gt;It is not the easy way out, but it is easily the most rewarding.&lt;/p&gt;</content><author><name>Anthony Corradi</name></author><category term="Stockton" /><category term="town hall" /><category term="michael tubbs" /><category term="mayor tubbs" /><category term="letter to the editor" /><category term="opinion" /><category term="waterfront" /><category term="Stockton port" /><category term="Downtown Stockton" /><category term="Downtown" /><category term="civic pride" /><category term="bay area" /><category term="Stockton fire" /><summary type="html">Sorry, city leaders, but the decision to purchase the waterfront towers as the new City Hall is unacceptable. There is no “civic pride” in entering a nondescript, glassy tower lacking any architectural thought.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/civic-pride.jpg" /></entry><entry><title type="html">Open Windows not so Transparent: Downtown Under Stress</title><link href="http://localhost:4000/2017/10/open-windows-not-so-transparent-downtown-redevelopment-under-stress.html" rel="alternate" type="text/html" title="Open Windows not so Transparent: Downtown Under Stress" /><published>2017-10-03T15:04:00-07:00</published><updated>2017-10-03T15:04:00-07:00</updated><id>http://localhost:4000/2017/10/open-windows-not-so-transparent-downtown-redevelopment-under-stress</id><content type="html" xml:base="http://localhost:4000/2017/10/open-windows-not-so-transparent-downtown-redevelopment-under-stress.html">&lt;p&gt;California’s housing crisis is leaving local government officials in a tough situation. For one of the hardest hit cities in the housing market crash, Stockton, Calif., the sense of urgency that has been building over the last two years has left &lt;a href=&quot;https://www.rentcafe.com/average-rent-market-trends/us/ca/san-joaquin-county/stockton/&quot;&gt;residents facing higher rents&lt;/a&gt; and city officials scrambling to implement solutions. &lt;a href=&quot;http://www.hcd.ca.gov/community-development/housing-element/docs/stockton_5th_draft121715.pdf&quot;&gt;The City is required&lt;/a&gt; to develop 4,400 units in the downtown and greater downtown areas, and 14,000 units elsewhere, within the 2007 city limits. No doubt, that is a lofty challenge.&lt;/p&gt;
+&lt;p&gt;It is not the easy way out, but it is easily the most rewarding.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Oct 2017 08:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/10/opinion-disappearing-civic-pride-in-stockton.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/opinion-disappearing-civic-pride-in-stockton.html</guid>
+        
+        <category>Stockton</category>
+        
+        <category>town hall</category>
+        
+        <category>michael tubbs</category>
+        
+        <category>mayor tubbs</category>
+        
+        <category>letter to the editor</category>
+        
+        <category>opinion</category>
+        
+        <category>waterfront</category>
+        
+        <category>Stockton port</category>
+        
+        <category>Downtown Stockton</category>
+        
+        <category>Downtown</category>
+        
+        <category>civic pride</category>
+        
+        <category>bay area</category>
+        
+        <category>Stockton fire</category>
+        
+        
+        <category>culture</category>
+        
+        <category>opinion</category>
+        
+        <category>guest contributor</category>
+        
+      </item>
+    
+      <item>
+        <title>Open Windows not so Transparent: Downtown Under Stress</title>
+        <description>&lt;p&gt;California’s housing crisis is leaving local government officials in a tough situation. For one of the hardest hit cities in the housing market crash, Stockton, Calif., the sense of urgency that has been building over the last two years has left &lt;a href=&quot;https://www.rentcafe.com/average-rent-market-trends/us/ca/san-joaquin-county/stockton/&quot;&gt;residents facing higher rents&lt;/a&gt; and city officials scrambling to implement solutions. &lt;a href=&quot;http://www.hcd.ca.gov/community-development/housing-element/docs/stockton_5th_draft121715.pdf&quot;&gt;The City is required&lt;/a&gt; to develop 4,400 units in the downtown and greater downtown areas, and 14,000 units elsewhere, within the 2007 city limits. No doubt, that is a lofty challenge.&lt;/p&gt;
 
 &lt;p&gt;To begin satisfying this requirement, the City of Stockton adopted the &lt;a href=&quot;http://www.stocktonca.gov/government/departments/econDev/eDevBusInf.html&quot;&gt;Downtown Infrastructure Infill Incentive Program&lt;/a&gt; (DIIIP) on July 7, 2015, encouraging infill development within the eastern core of its downtown. The goal? To support business expansion, bring private investment to the area, and generate additional jobs and revenue for the city. Specifically, the program would provide financial incentives to eligible parties looking to develop new market-rate residential or mixed use projects in Downtown Stockton.&lt;/p&gt;
 
@@ -142,7 +234,60 @@ The kind you can barely touch?&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;The City Council meeting to discuss this item will be held at 5:30 p.m. tonight, Oct. 3rd, at Stockton City Hall, 525 N. El Dorado St.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Cover image by Javier Padilla&lt;/em&gt;&lt;/p&gt;</content><author><name>Jasmine Leek</name></author><category term="Stockton" /><category term="Ten Space" /><category term="Tim Egkan" /><category term="Zac Cort" /><category term="Cort Group" /><category term="Downtown" /><category term="Revitalization" /><category term="Open Window Project" /><category term="Central Valley" /><category term="urban planning" /><category term="urban redevelopment" /><category term="Downtown Stockton Alliance" /><category term="City Council" /><category term="Kurt Wilson" /><category term="developers" /><category term="affordable housing" /><category term="housing crisis" /><category term="rising rents" /><category term="general plan" /><category term="featured" /><summary type="html">California’s housing crisis is leaving local government officials in a tough situation. For one of the hardest hit cities in the housing market crash, Stockton, Calif., the sense of urgency that has been building over the last two years has left residents facing higher rents and city officials scrambling to implement solutions. The City is required to develop 4,400 units in the downtown and greater downtown areas, and 14,000 units elsewhere, within the 2007 city limits. No doubt, that is a lofty challenge.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/javi-dowtownstk.jpg" /></entry><entry><title type="html">Gorilla Masks and Guerrilla Art Expose Inequality</title><link href="http://localhost:4000/2017/10/gorilla-masks-and-guerrilla-art-expose-inequality.html" rel="alternate" type="text/html" title="Gorilla Masks and Guerrilla Art Expose Inequality" /><published>2017-10-03T10:06:00-07:00</published><updated>2017-10-03T10:06:00-07:00</updated><id>http://localhost:4000/2017/10/gorilla-masks-and-guerrilla-art-expose-inequality</id><content type="html" xml:base="http://localhost:4000/2017/10/gorilla-masks-and-guerrilla-art-expose-inequality.html">&lt;p&gt;Political, raw, and feminist? Yes, &lt;a href=&quot;https://www.guerrillagirls.com/&quot;&gt;Guerrilla Girls&lt;/a&gt; are just that. Since 1985, the Guerrilla Girls have created public art that addresses politics, gender, and inequality that women throughout the world experience. They call themselves Guerrilla because of their tactics, placing large scale banners on billboards and using projectors on the side of  buildings.  They create a conversation of equality between gender and artists of color, particularly in the arts.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cover image by Javier Padilla&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Oct 2017 15:04:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/10/open-windows-not-so-transparent-downtown-redevelopment-under-stress.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/open-windows-not-so-transparent-downtown-redevelopment-under-stress.html</guid>
+        
+        <category>Stockton</category>
+        
+        <category>Ten Space</category>
+        
+        <category>Tim Egkan</category>
+        
+        <category>Zac Cort</category>
+        
+        <category>Cort Group</category>
+        
+        <category>Downtown</category>
+        
+        <category>Revitalization</category>
+        
+        <category>Open Window Project</category>
+        
+        <category>Central Valley</category>
+        
+        <category>urban planning</category>
+        
+        <category>urban redevelopment</category>
+        
+        <category>Downtown Stockton Alliance</category>
+        
+        <category>City Council</category>
+        
+        <category>Kurt Wilson</category>
+        
+        <category>developers</category>
+        
+        <category>affordable housing</category>
+        
+        <category>housing crisis</category>
+        
+        <category>rising rents</category>
+        
+        <category>general plan</category>
+        
+        <category>featured</category>
+        
+        
+        <category>Culture</category>
+        
+      </item>
+    
+      <item>
+        <title>Gorilla Masks and Guerrilla Art Expose Inequality</title>
+        <description>&lt;p&gt;Political, raw, and feminist? Yes, &lt;a href=&quot;https://www.guerrillagirls.com/&quot;&gt;Guerrilla Girls&lt;/a&gt; are just that. Since 1985, the Guerrilla Girls have created public art that addresses politics, gender, and inequality that women throughout the world experience. They call themselves Guerrilla because of their tactics, placing large scale banners on billboards and using projectors on the side of  buildings.  They create a conversation of equality between gender and artists of color, particularly in the arts.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/uploads/guerrilla-CBLBARNESFOUNDATION.jpg&quot; alt=&quot;guerrilla-CBLBARNESFOUNDATION.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -159,7 +304,62 @@ The kind you can barely touch?&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/uploads/guerrilla-girls-mfc.jpg&quot; alt=&quot;guerrilla-girls-mfc.jpg&quot; /&gt;
 &lt;em&gt;Ask yourself, “How many women exhibitions has my local art museum or gallery had?” “How many women are featured at the Crocker Art Museum or Haggin Museum right now?”&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;In addition, to their exhibition at Verge, they also will be giving a lecture at California State University, Sacramento, on Oct. 5.  The event will take place at the University Union at 7:30pm. The event is FREE. &lt;a href=&quot;https://theuniversityunion.com/unique/event/guerrilla-girls&quot;&gt;Find more information here.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name>Connie Reyes</name></author><category term="Sacramento" /><category term="Sacramento State" /><category term="SacState" /><category term="CSUS" /><category term="guerrilla girls" /><category term="Crocker art museum" /><category term="haggin museum" /><category term="stockton" /><category term="femme" /><category term="feminist" /><category term="inequality" /><category term="verge center for the arts" /><category term="verge" /><category term="Student Union" /><category term="exhibit" /><category term="lecture" /><category term="radical" /><category term="graphic design" /><category term="political art" /><category term="Activism" /><summary type="html">Political, raw, and feminist? Yes, Guerrilla Girls are just that. Since 1985, the Guerrilla Girls have created public art that addresses politics, gender, and inequality that women throughout the world experience. They call themselves Guerrilla because of their tactics, placing large scale banners on billboards and using projectors on the side of buildings. They create a conversation of equality between gender and artists of color, particularly in the arts. The group also wears gorilla masks in public to remain anonymous. While they are public in their art and expression, they remain mysterious about their own identities. Anonymity keeps them safe and adds to their message; anyone could be a Guerrilla Girl, and they are everyone. Over the years the Guerilla Girls have exhibited all around the world and have received critical acclaim. Their recent traveling exhibition, Not Ready to Make Nice, started on Sept. 7 and runs until Oct. 22 at Verge Center for the Arts in Sacramento. This exhibition displays a collection of 30 years of their radical and thought-provoking artwork.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/guerrilla-SUNDAY.jpg" /></entry><entry><title type="html">How to Bring Millions for Stockton’s Most Disadvantaged</title><link href="http://localhost:4000/2017/09/how-to-bring-millions-for-stocktons-most-disadvantaged.html" rel="alternate" type="text/html" title="How to Bring Millions for Stockton's Most Disadvantaged" /><published>2017-09-25T09:45:00-07:00</published><updated>2017-09-25T09:45:00-07:00</updated><id>http://localhost:4000/2017/09/how-to-bring-millions-for-stocktons-most-disadvantaged</id><content type="html" xml:base="http://localhost:4000/2017/09/how-to-bring-millions-for-stocktons-most-disadvantaged.html">&lt;p&gt;California often leads the nation when it comes to acknowledging and searching for ways to address climate change. The state’s first-of-its-kind &lt;a href=&quot;https://www.arb.ca.gov/cc/capandtrade/capandtrade.htm&quot;&gt;Cap-and-Trade Program&lt;/a&gt; highlights its innovation. The program was recently extended in the state legislature to 2030 (ten years past its initial 2020 horizon).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In addition, to their exhibition at Verge, they also will be giving a lecture at California State University, Sacramento, on Oct. 5.  The event will take place at the University Union at 7:30pm. The event is FREE. &lt;a href=&quot;https://theuniversityunion.com/unique/event/guerrilla-girls&quot;&gt;Find more information here.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Oct 2017 10:06:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/10/gorilla-masks-and-guerrilla-art-expose-inequality.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/gorilla-masks-and-guerrilla-art-expose-inequality.html</guid>
+        
+        <category>Sacramento</category>
+        
+        <category>Sacramento State</category>
+        
+        <category>SacState</category>
+        
+        <category>CSUS</category>
+        
+        <category>guerrilla girls</category>
+        
+        <category>Crocker art museum</category>
+        
+        <category>haggin museum</category>
+        
+        <category>stockton</category>
+        
+        <category>femme</category>
+        
+        <category>feminist</category>
+        
+        <category>inequality</category>
+        
+        <category>verge center for the arts</category>
+        
+        <category>verge</category>
+        
+        <category>Student Union</category>
+        
+        <category>exhibit</category>
+        
+        <category>lecture</category>
+        
+        <category>radical</category>
+        
+        <category>graphic design</category>
+        
+        <category>political art</category>
+        
+        <category>Activism</category>
+        
+        
+        <category>Art</category>
+        
+        <category>Culture</category>
+        
+      </item>
+    
+      <item>
+        <title>How to Bring Millions for Stockton's Most Disadvantaged</title>
+        <description>&lt;p&gt;California often leads the nation when it comes to acknowledging and searching for ways to address climate change. The state’s first-of-its-kind &lt;a href=&quot;https://www.arb.ca.gov/cc/capandtrade/capandtrade.htm&quot;&gt;Cap-and-Trade Program&lt;/a&gt; highlights its innovation. The program was recently extended in the state legislature to 2030 (ten years past its initial 2020 horizon).&lt;/p&gt;
 
 &lt;p&gt;Cap and Trade works by setting an annual “cap” on the total amount of carbon emissions attributable to businesses within the state. Each year this cap declines. Businesses are then required to purchase permits which allow for a certain amount of emissions to be released. A certain number of permits are allocated for free, but if a business is in need of more, it must purchase these permits from the state. These permits are sold quarterly, and the revenue gained from these sales is funneled into a suite of programs, called California Climate Investment Programs, which are aimed at reducing greenhouse gas emissions.&lt;/p&gt;
 
@@ -187,7 +387,44 @@ Stockton is high on that priority investment list. A quick search with the CalEn
 
 &lt;p&gt;There will be food, childcare, and translation services available. At this meeting, information on the TCC Program, as well as a proposed planning area based on CalEnviroScreen data, will be presented. As a member of this TCC planning group, and as a resident of Stockton, I urge anyone who may be interested to make a visit to learn more about this program and how it could benefit our community. It is time for our city to “walk the walk” as it pertains to climate change, and ensure that our future investments both protect and empower those who have been left vulnerable to environmental racism and injustice.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Cover image by &lt;a href=&quot;https://www.flickr.com/photos/aphid00/7023178457&quot;&gt;Dave Sizer&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>Kristine Williams</name></author><category term="Transformative Climate Communities" /><category term="CalEnviroScreen" /><category term="Environmental Justice" /><category term="Disadvantaged Communities" /><category term="Climate Change" /><category term="Stockton" /><category term="Fresno" /><category term="Cap and Trade" /><category term="California" /><category term="maps" /><category term="State grants" /><category term="public meeting" /><summary type="html">California often leads the nation when it comes to acknowledging and searching for ways to address climate change. The state’s first-of-its-kind Cap-and-Trade Program highlights its innovation. The program was recently extended in the state legislature to 2030 (ten years past its initial 2020 horizon).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/dave-sizer-smoke-stack.jpg" /></entry><entry><title type="html">Port City Stories</title><link href="http://localhost:4000/2017/09/port-city-stories.html" rel="alternate" type="text/html" title="Port City Stories" /><published>2017-09-20T09:00:00-07:00</published><updated>2017-09-20T09:00:00-07:00</updated><id>http://localhost:4000/2017/09/port-city-stories</id><content type="html" xml:base="http://localhost:4000/2017/09/port-city-stories.html">&lt;p&gt;&lt;strong&gt;Welcome to My City:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cover image by &lt;a href=&quot;https://www.flickr.com/photos/aphid00/7023178457&quot;&gt;Dave Sizer&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Sep 2017 09:45:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/09/how-to-bring-millions-for-stocktons-most-disadvantaged.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/how-to-bring-millions-for-stocktons-most-disadvantaged.html</guid>
+        
+        <category>Transformative Climate Communities</category>
+        
+        <category>CalEnviroScreen</category>
+        
+        <category>Environmental Justice</category>
+        
+        <category>Disadvantaged Communities</category>
+        
+        <category>Climate Change</category>
+        
+        <category>Stockton</category>
+        
+        <category>Fresno</category>
+        
+        <category>Cap and Trade</category>
+        
+        <category>California</category>
+        
+        <category>maps</category>
+        
+        <category>State grants</category>
+        
+        <category>public meeting</category>
+        
+        
+        <category>Culture</category>
+        
+      </item>
+    
+      <item>
+        <title>Port City Stories</title>
+        <description>&lt;p&gt;&lt;strong&gt;Welcome to My City:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;     The air here is as stagnant as the people who call Stockton home. Breathing it in weighs down your lungs with hot, muggy oxygen, perfumed with the smell of the Delta scum. The Delta stank is a special combination of farm water run-off, fish, and whatever remains of the poor soul some local gang has disposed of recently. Growing up here, it’s no secret what lurks in the waterways that intersect our streets and homes. Whenever a girl goes missing from the local university the first thing the police do is ready the dragnets and scuba gear. I’ve never heard of a missing girl being found alive here.&lt;br /&gt;
      Stockton, California is the 8th most dangerous city in America; growing up here you learn real quick which parts of town to avoid. At least once a month the news will show reports of a body being found at a local playground, park, or neighborhood. If you manage to make it through high school without knowing someone who got pregnant, joined a gang, or got friendly with some rocks or a needle, then you are either lucky, or your family is from one of the two nice neighborhoods. A man once explained to me that most cities are made up of good, friendly places, with sparse pockets of bad areas that drag down the whole city’s reputation. He told me, “Stockton is not one of those places; you need to look very hard to find a nice place around here.”&lt;br /&gt;
@@ -228,7 +465,54 @@ Stockton is high on that priority investment list. A quick search with the CalEn
 
 &lt;p&gt;&lt;em&gt;Photos courtesy of Javier Padilla Reyes&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.&lt;/em&gt;&lt;/p&gt;</content><author><name>C.T. Walker</name></author><category term="Stockton" /><category term="placeholder" /><category term="placeholder mag" /><category term="placeholder magazine" /><category term="Central Valley" /><category term="Delta" /><category term="Youth" /><category term="Fiction" /><category term="Grimy" /><category term="Levees" /><category term="Port City" /><category term="C.T. Walker" /><category term="Mr. Cashmere" /><category term="California" /><category term="Nostalgia" /><category term="waterways" /><category term="featured" /><summary type="html">Welcome to My City:      The air here is as stagnant as the people who call Stockton home. Breathing it in weighs down your lungs with hot, muggy oxygen, perfumed with the smell of the Delta scum. The Delta stank is a special combination of farm water run-off, fish, and whatever remains of the poor soul some local gang has disposed of recently. Growing up here, it’s no secret what lurks in the waterways that intersect our streets and homes. Whenever a girl goes missing from the local university the first thing the police do is ready the dragnets and scuba gear. I’ve never heard of a missing girl being found alive here.      Stockton, California is the 8th most dangerous city in America; growing up here you learn real quick which parts of town to avoid. At least once a month the news will show reports of a body being found at a local playground, park, or neighborhood. If you manage to make it through high school without knowing someone who got pregnant, joined a gang, or got friendly with some rocks or a needle, then you are either lucky, or your family is from one of the two nice neighborhoods. A man once explained to me that most cities are made up of good, friendly places, with sparse pockets of bad areas that drag down the whole city’s reputation. He told me, “Stockton is not one of those places; you need to look very hard to find a nice place around here.”      After the housing market took a bad turn in the early 2000s, Stockton was the largest city to ever declare bankruptcy, until 2013 when Detroit stole that title from us. We are home to over 70 gangs that push the drugs on our streets and put the bullets in our storefronts and homes. I’ve heard stories that our city was once a thriving metropolis—home to a major port, booming businesses, and miles of farmland that supplied the world with fresh produce. If you search hard enough, you can see remnants of that time: an abandoned military base, long empty skyscrapers downtown; they stand tall, serving as the brick and steel headstones for our brief age of industry. Under some of the older homes and buildings lie dormant bomb shelters. Relics from the Red Scare when, as a city, we were considered important enough to be obliterated.      The port bottomed out around the late 50s, but a few of the farms are still here. In the summers, my friends and I would run amok in the fields; we weren’t allowed to play in our front yards for fear of being gunned down or hit by the street racers. Crushing the heads of ripe tomatoes under our faded kicks, we would set off towards adventure: catching lizards, climbing hay bales, and playing hide and seek in the wavy green corn fields. We wouldn’t return home until the sun began to sink low over the top of Mt. Diablo. Looking back, it’s hard to believe that by making your way around one rickety old fence, you could find yourself so far removed from the grime that seemed to be imbedded in the city. Stockton isn’t like most cities where kids are free to safely enjoy their youth. Growing up we had to carve our own lush, safe, little pocket in an otherwise grim concrete existence…</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/port-city-stories-pic7.jpg" /></entry><entry><title type="html">“No Parking” at PARK(ing) Day in Stockton</title><link href="http://localhost:4000/2017/09/no-parking-at-park-ing-day-in-stockton.html" rel="alternate" type="text/html" title="&quot;No Parking&quot; at PARK(ing) Day in Stockton" /><published>2017-09-19T11:07:00-07:00</published><updated>2017-09-19T11:07:00-07:00</updated><id>http://localhost:4000/2017/09/no-parking-at-park-ing-day-in-stockton</id><content type="html" xml:base="http://localhost:4000/2017/09/no-parking-at-park-ing-day-in-stockton.html">&lt;p&gt;For the first time in a long time, I woke up with that little-kid, Christmas morning feeling. It was Stockton’s first PARK(ing) Day, and I couldn’t wait for the downtown community to wake up and see what awaited them.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Sep 2017 09:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/09/port-city-stories.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/port-city-stories.html</guid>
+        
+        <category>Stockton</category>
+        
+        <category>placeholder</category>
+        
+        <category>placeholder mag</category>
+        
+        <category>placeholder magazine</category>
+        
+        <category>Central Valley</category>
+        
+        <category>Delta</category>
+        
+        <category>Youth</category>
+        
+        <category>Fiction</category>
+        
+        <category>Grimy</category>
+        
+        <category>Levees</category>
+        
+        <category>Port City</category>
+        
+        <category>C.T. Walker</category>
+        
+        <category>Mr. Cashmere</category>
+        
+        <category>California</category>
+        
+        <category>Nostalgia</category>
+        
+        <category>waterways</category>
+        
+        <category>featured</category>
+        
+        
+        <category>Literature</category>
+        
+      </item>
+    
+      <item>
+        <title>&quot;No Parking&quot; at PARK(ing) Day in Stockton</title>
+        <description>&lt;p&gt;For the first time in a long time, I woke up with that little-kid, Christmas morning feeling. It was Stockton’s first PARK(ing) Day, and I couldn’t wait for the downtown community to wake up and see what awaited them.&lt;/p&gt;
 
 &lt;p&gt;I first heard about PARK(ing) Day when I was working for a hotel on 7th and Mission in San Francisco, which is &lt;em&gt;technically&lt;/em&gt; in SOMA, but it felt a lot more like the Tenderloin. It was considered an undesirable area of the city, mostly because it was industrial, had its fair share of abandoned buildings, and lacked any public space. Our neighbors at Rebar, a design firm and founders of PARK(ing) Day, told us about the event and asked if we wanted to participate. They said PARK(ing) Day was a way to show what’s possible when public space takes the place of parking space. All we needed to do was pay the meter in front of our hotel and use the space to create something interesting.&lt;/p&gt;
 
@@ -242,7 +526,38 @@ Stockton is high on that priority investment list. A quick search with the CalEn
 &lt;p&gt;&lt;img src=&quot;/uploads/parking-day.jpg&quot; alt=&quot;parking-day.jpg&quot; /&gt;
 &lt;em&gt;Garrett Daniells’ Des(s)ert: Cornucopia, 2017 taking up all of the parking space.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Cover image by &lt;a href=&quot;https://www.instagram.com/sonofasignman/&quot;&gt;Garrett Daniells&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>Emily Oestriecher</name></author><category term="Parking Day" /><category term="Community" /><category term="Stockton" /><category term="San Francisco" /><category term="REBAR" /><category term="SOMA" /><category term="Public Space" /><category term="Garrett Daniells" /><category term="Public Art" /><summary type="html">For the first time in a long time, I woke up with that little-kid, Christmas morning feeling. It was Stockton’s first PARK(ing) Day, and I couldn’t wait for the downtown community to wake up and see what awaited them.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/reserved-parking.jpg" /></entry><entry><title type="html">What a Time to be a Latin American Artist</title><link href="http://localhost:4000/2017/09/what-a-time-to-be-a-latin-american-artist.html" rel="alternate" type="text/html" title="What a Time to be a Latin American Artist" /><published>2017-09-11T21:45:00-07:00</published><updated>2017-09-11T21:45:00-07:00</updated><id>http://localhost:4000/2017/09/what-a-time-to-be-a-latin-american-artist</id><content type="html" xml:base="http://localhost:4000/2017/09/what-a-time-to-be-a-latin-american-artist.html">&lt;p&gt;James Cuno, art historian and curator of the Getty Museum, wrote this quote in reference to people visiting museums after the September 11, 2001 attacks:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cover image by &lt;a href=&quot;https://www.instagram.com/sonofasignman/&quot;&gt;Garrett Daniells&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Sep 2017 11:07:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/09/no-parking-at-park-ing-day-in-stockton.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/no-parking-at-park-ing-day-in-stockton.html</guid>
+        
+        <category>Parking Day</category>
+        
+        <category>Community</category>
+        
+        <category>Stockton</category>
+        
+        <category>San Francisco</category>
+        
+        <category>REBAR</category>
+        
+        <category>SOMA</category>
+        
+        <category>Public Space</category>
+        
+        <category>Garrett Daniells</category>
+        
+        <category>Public Art</category>
+        
+        
+        <category>Culture</category>
+        
+      </item>
+    
+      <item>
+        <title>What a Time to be a Latin American Artist</title>
+        <description>&lt;p&gt;James Cuno, art historian and curator of the Getty Museum, wrote this quote in reference to people visiting museums after the September 11, 2001 attacks:&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;“I’d like to think that by providing and preserving examples of beauty, museums foster a greater sense of caring in the world and urge their visitors to undergo a radical decentering before the work of art.”&lt;/em&gt;&lt;/p&gt;
 
@@ -283,7 +598,58 @@ This exhibition will feature over a dozen artists from both sides of the Mexico�
 &lt;p&gt;&lt;img src=&quot;/uploads/cynthia-lujan-borders.jpg&quot; alt=&quot;cynthia-lujan-borders.jpg&quot; /&gt;
 &lt;em&gt;Courtesy of Borders&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Cover image by Javier Padilla Reyes&lt;/em&gt;&lt;/p&gt;</content><author><name>Aida Lizalde</name></author><category term="Art" /><category term="latin" /><category term="latinos" /><category term="american art" /><category term="DACA" /><category term="LACMA" /><category term="YBCA" /><category term="Inarritu" /><category term="Carne y Arena" /><category term="Talking to Power" /><category term="Borders" /><category term="West Coast" /><category term="California" /><category term="Immigration" /><category term="Border wall" /><category term="Trump" /><category term="9/11" /><category term="featured" /><summary type="html">James Cuno, art historian and curator of the Getty Museum, wrote this quote in reference to people visiting museums after the September 11, 2001 attacks: “I’d like to think that by providing and preserving examples of beauty, museums foster a greater sense of caring in the world and urge their visitors to undergo a radical decentering before the work of art.” I believe Latin American artists accomplish what Cuno is referring to by illustrating the Latin American experience in the United States through artistic mediums. The identity politics war going on in the U.S., a war that often feels ajena (poorly translated by Google as “foreign” but not quite the same), has taken over our mental and emotional environment. Latin American people have struggled for survival, human rights, and fair representation in countless environments, including the arts. The announcement of the end of DACA (Deferred Action for Childhood Arrivals) has been the last straw in a mount of injustice, yet in a moment of clarity I noticed many West Coast art institutions had been curating shows that represent people of Latin American heritage. We are facing a terrifying era, and I hope we can sense that beauty and caring for the world in the arts being made by our own kind. Below are some relatable exhibitions you can visit in California for all those searching for a sublime moment in desperate times: “CARNE y ARENA (Virtually present, Physically invisible)” by Alejandro G. Iñárritu July 2 2017— Sep 10th 2017 L.A. County Museum of Art Iñárritu is a Mexican artist and director who literally created a virtual reality so people can experience what it feels like to cross the border between Mexico and the U.S. “Talking to Power / Hablándole al Poder” by Tania Bruguera June 16 2017 — Oct. 29 2017 Yerba Buena Center for the Arts, San Francisco Bruguera is a political activist and social practice artist who was banned from showing her work in Cuba, her motherland, she will present a series of works and workshops about dismantling or re-distributing power structures.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/COVER-what-a-time.jpg" /></entry><entry><title type="html">Is Amazon a Job Creator or Job Destroyer?</title><link href="http://localhost:4000/2017/08/is-amazon-a-job-creator-or-job-destroyer.html" rel="alternate" type="text/html" title="Is Amazon a Job Creator or Job Destroyer?" /><published>2017-08-29T10:51:00-07:00</published><updated>2017-08-29T10:51:00-07:00</updated><id>http://localhost:4000/2017/08/is-amazon-a-job-creator-or-job-destroyer</id><content type="html" xml:base="http://localhost:4000/2017/08/is-amazon-a-job-creator-or-job-destroyer.html">&lt;p&gt;On Aug. 22, 2017, &lt;a href=&quot;http://fox40.com/2017/08/22/amazons-new-stockton-facility-expected-to-create-more-than-1000-full-time-jobs/&quot;&gt;Amazon announced the coming of a warehouse&lt;/a&gt; to Southside Stockton. Many see this as good news— after all, it’s touted to bring over a thousand jobs to the city. These jobs pay above the minimum wage, include benefits, and require a variety of skillsets. There will be a need for “pickers” and “packers,” but there will also be demand for security guards, drivers, IT specialists, medical services, janitors, and every other type of job needed to fill and operate a 600,000 plus-square-foot warehouse.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cover image by Javier Padilla Reyes&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Sep 2017 21:45:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/09/what-a-time-to-be-a-latin-american-artist.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/what-a-time-to-be-a-latin-american-artist.html</guid>
+        
+        <category>Art</category>
+        
+        <category>latin</category>
+        
+        <category>latinos</category>
+        
+        <category>american art</category>
+        
+        <category>DACA</category>
+        
+        <category>LACMA</category>
+        
+        <category>YBCA</category>
+        
+        <category>Inarritu</category>
+        
+        <category>Carne y Arena</category>
+        
+        <category>Talking to Power</category>
+        
+        <category>Borders</category>
+        
+        <category>West Coast</category>
+        
+        <category>California</category>
+        
+        <category>Immigration</category>
+        
+        <category>Border wall</category>
+        
+        <category>Trump</category>
+        
+        <category>9/11</category>
+        
+        <category>featured</category>
+        
+        
+        <category>Culture</category>
+        
+        <category>Video</category>
+        
+      </item>
+    
+      <item>
+        <title>Is Amazon a Job Creator or Job Destroyer?</title>
+        <description>&lt;p&gt;On Aug. 22, 2017, &lt;a href=&quot;http://fox40.com/2017/08/22/amazons-new-stockton-facility-expected-to-create-more-than-1000-full-time-jobs/&quot;&gt;Amazon announced the coming of a warehouse&lt;/a&gt; to Southside Stockton. Many see this as good news— after all, it’s touted to bring over a thousand jobs to the city. These jobs pay above the minimum wage, include benefits, and require a variety of skillsets. There will be a need for “pickers” and “packers,” but there will also be demand for security guards, drivers, IT specialists, medical services, janitors, and every other type of job needed to fill and operate a 600,000 plus-square-foot warehouse.&lt;/p&gt;
 
 &lt;p&gt;In many ways, these jobs will bring some security to residents in Stockton and surrounding areas, but how long will it last? Amazon is replacing physical storefronts, and they’re doing so with robotics. The company shows that even with the increase of robots, &lt;a href=&quot;https://qz.com/885425/amazons-massive-fleet-of-robots-hasnt-slowed-down-its-employment-of-humans/&quot;&gt;hiring is on the rise&lt;/a&gt; due to an increase in demand for Amazon products; however, these jobs are not “new” jobs.&lt;/p&gt;
 
@@ -320,7 +686,50 @@ This exhibition will feature over a dozen artists from both sides of the Mexico�
 
 &lt;p&gt;Make no mistake, these robots will replace humans just to save us an extra two or three dollars on this bag of &lt;a href=&quot;https://www.amazon.com/Unicorn-Cotton-Unique-Friends-Birthday/dp/B01E9D0OR2&quot;&gt;unicorn farts&lt;/a&gt;. And when that happens, we can only hope that our mentality and economy has adjusted so that we don’t have to compete with robots, but we can improve our quality of life. Or perhaps it’s time for all of us to vote with our dollar, if we want to keep a small business open, maybe we could spare the extra five dollars.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Illustrations by Cruz Arredondo&lt;/em&gt;&lt;/p&gt;</content><author><name>Cruz Arredondo &amp; Javier Padilla</name></author><category term="amazon" /><category term="warehouse" /><category term="robots" /><category term="Amazon Fulfillment Center" /><category term="Tracy" /><category term="Stockton" /><category term="Fresno" /><category term="Sacramento" /><category term="Central Valley" /><category term="Robotics" /><category term="jobs" /><category term="robocup 2017" /><category term="Michael Tubbs" /><category term="Agriculture" /><category term="featured" /><summary type="html">On Aug. 22, 2017, Amazon announced the coming of a warehouse to Southside Stockton. Many see this as good news— after all, it’s touted to bring over a thousand jobs to the city. These jobs pay above the minimum wage, include benefits, and require a variety of skillsets. There will be a need for “pickers” and “packers,” but there will also be demand for security guards, drivers, IT specialists, medical services, janitors, and every other type of job needed to fill and operate a 600,000 plus-square-foot warehouse.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/Kiva-robot.jpg" /></entry><entry><title type="html">What has Changed? From Segregation to Discrimination</title><link href="http://localhost:4000/2017/08/from-segregation-to-discrimination-what-has-changed.html" rel="alternate" type="text/html" title="What has Changed? From Segregation to Discrimination" /><published>2017-08-17T06:38:00-07:00</published><updated>2017-08-17T06:38:00-07:00</updated><id>http://localhost:4000/2017/08/from-segregation-to-discrimination-what-has-changed</id><content type="html" xml:base="http://localhost:4000/2017/08/from-segregation-to-discrimination-what-has-changed.html">&lt;p&gt;We must’ve moved about five times in five years. Every Christmas we lived in a different house. Since we moved to Stockton, California, my parents were able to upgrade our family into bigger homes. First we stayed with my grandparents, then a two bedroom, then three, until we each had our own rooms. Once we left Mexico, it seemed as if we just kept migrating farther North.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Illustrations by Cruz Arredondo&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Aug 2017 10:51:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/08/is-amazon-a-job-creator-or-job-destroyer.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/08/is-amazon-a-job-creator-or-job-destroyer.html</guid>
+        
+        <category>amazon</category>
+        
+        <category>warehouse</category>
+        
+        <category>robots</category>
+        
+        <category>Amazon Fulfillment Center</category>
+        
+        <category>Tracy</category>
+        
+        <category>Stockton</category>
+        
+        <category>Fresno</category>
+        
+        <category>Sacramento</category>
+        
+        <category>Central Valley</category>
+        
+        <category>Robotics</category>
+        
+        <category>jobs</category>
+        
+        <category>robocup 2017</category>
+        
+        <category>Michael Tubbs</category>
+        
+        <category>Agriculture</category>
+        
+        <category>featured</category>
+        
+        
+        <category>Culture</category>
+        
+      </item>
+    
+      <item>
+        <title>What has Changed? From Segregation to Discrimination</title>
+        <description>&lt;p&gt;We must’ve moved about five times in five years. Every Christmas we lived in a different house. Since we moved to Stockton, California, my parents were able to upgrade our family into bigger homes. First we stayed with my grandparents, then a two bedroom, then three, until we each had our own rooms. Once we left Mexico, it seemed as if we just kept migrating farther North.&lt;/p&gt;
 
 &lt;p&gt;I hated moving, but I did enjoy having more space—as a teenager, that was very important.&lt;/p&gt;
 
@@ -387,4 +796,48 @@ This exhibition will feature over a dozen artists from both sides of the Mexico�
 &lt;h2 id=&quot;tldr&quot;&gt;TL;DR&lt;/h2&gt;
 &lt;p&gt;Government had some racist policies in real-estate for 30 years that still impact low-income communities and neighborhoods of color 50 years after those policies were made illegal.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;This post is part of a loose series, to see the &lt;a href=&quot;http://www.placeholdermag.com/culture/2017/01/14/racisminyourneighborhood.html&quot;&gt;first part click here&lt;/a&gt;. In our next story, we’ll dig a little deeper into the world of environmental justice, what it means, the effects of living in these neighborhoods, and what we can do about it.&lt;/em&gt;&lt;/p&gt;</content><author><name>Javier Padilla Reyes</name></author><category term="Stockton" /><category term="Fresno" /><category term="Sacramento" /><category term="Central Valley" /><category term="HOLC" /><category term="homeowners loan corporation" /><category term="redlining" /><category term="new deal" /><category term="redlining gis" /><category term="maps" /><category term="environmental justice" /><category term="california" /><category term="epa" /><category term="CalEnviroScreen" /><category term="environmental justice issues" /><category term="featured" /><summary type="html">We must’ve moved about five times in five years. Every Christmas we lived in a different house. Since we moved to Stockton, California, my parents were able to upgrade our family into bigger homes. First we stayed with my grandparents, then a two bedroom, then three, until we each had our own rooms. Once we left Mexico, it seemed as if we just kept migrating farther North.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/stockton-redlining-cover.jpg" /></entry></feed>
+&lt;p&gt;&lt;em&gt;This post is part of a loose series, to see the &lt;a href=&quot;http://www.placeholdermag.com/culture/2017/01/14/racisminyourneighborhood.html&quot;&gt;first part click here&lt;/a&gt;. In our next story, we’ll dig a little deeper into the world of environmental justice, what it means, the effects of living in these neighborhoods, and what we can do about it.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Aug 2017 06:38:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/08/from-segregation-to-discrimination-what-has-changed.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/08/from-segregation-to-discrimination-what-has-changed.html</guid>
+        
+        <category>Stockton</category>
+        
+        <category>Fresno</category>
+        
+        <category>Sacramento</category>
+        
+        <category>Central Valley</category>
+        
+        <category>HOLC</category>
+        
+        <category>homeowners loan corporation</category>
+        
+        <category>redlining</category>
+        
+        <category>new deal</category>
+        
+        <category>redlining gis</category>
+        
+        <category>maps</category>
+        
+        <category>environmental justice</category>
+        
+        <category>california</category>
+        
+        <category>epa</category>
+        
+        <category>CalEnviroScreen</category>
+        
+        <category>environmental justice issues</category>
+        
+        <category>featured</category>
+        
+        
+        <category>Culture</category>
+        
+      </item>
+    
+  </channel>
+</rss>
